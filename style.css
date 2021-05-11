@@ -1,0 +1,48 @@
+body {
+    text-align: center;
+}
+
+#apps {
+    width: 100%;
+    height: 800px;
+    background-color: plum;
+}
+
+.line {
+    height: 6px;
+    width: 100px;
+    background-color: blueviolet;
+    margin: 8px auto;
+}
+
+#games {
+    width: 100%;
+    height: 800px;
+    background-color: skyblue;
+}
+
+#bots {
+    width: 100%;
+    height: 800px;
+    background-color: hotpink;
+}
+
+#myCarousel {
+    background-color: lightpink;
+}
+
+#myCarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-bottom: 15px;
+    color: darkviolet;
+    font-size: 20px;
+}
+
+#myCarousel1 {
+    background-color: paleturquoise;
+}
